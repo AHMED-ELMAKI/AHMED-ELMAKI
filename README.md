@@ -1,4 +1,4 @@
-# Greetings, I'm Ahmed Elmaki 🫡
+# Greetings, I'm Ahmed Elmaki
 
 <p align="center">
   <b>B.Sc. Graduate in Computers and Data Science | Alexandria University</b><br>
