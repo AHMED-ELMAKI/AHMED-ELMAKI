@@ -24,7 +24,7 @@ I'm a passionate software engineer and data science graduate from Alexandria Uni
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
   </p>
 * **Game Development:** Unity Game Engine, 2D/3D Game Mechanics
-* **Hardware, IoT & Prototyping:** Microcontrollers, IoT Applications, Custom PCB Design & Fabrication, Hardware Sensor Interfacing, Soldering
+* **Hardware, IoT & Prototyping:** Microcontrollers, IoT Applications, Soldering
 * **Web & Mobile:** 
   <p align="left" style="margin-top: 8px;">
     <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native">
@@ -55,12 +55,6 @@ I'm a passionate software engineer and data science graduate from Alexandria Uni
   </a>
     <a href="https://www.youtube.com/@AHMED_Hazelnut" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://x.com/hazel_domain" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
-  </a>
-  <a href="https://www.instagram.com/ahmed_elmaki0/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
 
