@@ -8,7 +8,7 @@
 ---
 
 ### About Me
-I'm a passionate software engineer and data science graduate from Alexandria University with a deep interest in building cross-platform applications, machine learning pipelines, IoT solutions, and interactive experiences. Whether it's architecting full-stack mobile apps, designing custom PCBs, or developing games in Unity, I love bridging software and hardware.
+I'm a passionate software engineer and data science graduate from Alexandria University with a deep interest in building cross-platform applications, machine learning pipelines, IoT solutions, and interactive experiences. Whether it's architecting full-stack mobile apps, or developing games in Unity, I love bridging software and hardware in a creative way.
 
 ---
 
